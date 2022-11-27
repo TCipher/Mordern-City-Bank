@@ -1,4 +1,5 @@
 ﻿using System.Text.RegularExpressions;
+using System.Xml.Linq;
 
 namespace BankAppTask.Commons
 {
@@ -19,8 +20,8 @@ namespace BankAppTask.Commons
 
         public static bool CheckPassword(string password)
         {
-            var strRegex = @"^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$";
-            return PerformRegEx(strRegex, password);
+            string PasswordRegex = @"^[a-zA-Z]{3,}[@#$%^&!]{1}[0-9]{2,}$";
+            return Regex.IsMatch(password, PasswordRegex);
         }
 
         public static bool CheckNumber(string phoneNumber)

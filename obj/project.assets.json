@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\WeekFive\\ModernCityBank\\Week4Task\\BankAppTask\\BankAppTask.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\Decagon\\WeekFive\\ModernCityBank\\Week4Task\\BankAppTask\\BankAppTask.csproj",
       "projectName": "BankAppTask",
-      "projectPath": "C:\\Users\\Decagon\\Desktop\\WeekFive\\ModernCityBank\\Week4Task\\BankAppTask\\BankAppTask.csproj",
+      "projectPath": "C:\\Users\\Decagon\\Desktop\\Decagon\\WeekFive\\ModernCityBank\\Week4Task\\BankAppTask\\BankAppTask.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Decagon\\Desktop\\WeekFive\\ModernCityBank\\Week4Task\\BankAppTask\\obj\\",
+      "outputPath": "C:\\Users\\Decagon\\Desktop\\Decagon\\WeekFive\\ModernCityBank\\Week4Task\\BankAppTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
